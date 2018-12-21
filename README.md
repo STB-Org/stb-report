@@ -1,11 +1,11 @@
 # stb-report
-Simple reviews of movies and games.
+Simple, personal reviews of movies and games.
 
 ## Making a review (post)
 Each review must fall in its respective folder, inside that folder's `_posts` folder.
 The file name should be as follows: `yyyy-mm-dd-title-of-post.md`.
 
-Each review itself must follow the following format:
+Each review itself must follow the following format:ppp
 ```
 ---
 layout: post
