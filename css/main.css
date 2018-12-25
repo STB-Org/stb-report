@@ -70,10 +70,10 @@ div.container {
 	border-bottom: 1px solid #d1d1d1;
 }
 
-img.cover {
-	display: block;
+.cover img {
 	height: 250px;
 	width: auto;
+	float: right;
 }
 
 table.title {
@@ -81,7 +81,4 @@ table.title {
 	width: auto;
 	height: 250px;
 	margin-bottom: 10px;
-}
-span.cover {
-	float: right;
 }
