@@ -73,6 +73,13 @@ div.container {
 img.cover {
 	display: block;
 	margin: 10px auto;
-	height: 200px;
+	height: 250px;
 	width: auto;
+}
+
+table.title {
+	border: 0px;
+	width: auto;
+	height: 250px;
+	margin-bottom: 10px;
 }
