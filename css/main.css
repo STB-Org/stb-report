@@ -78,7 +78,7 @@ div.container {
 
 table.title {
 	border: 0px;
-	width: auto;
+	width: 100%;
 	height: 250px;
 	margin-bottom: 10px;
 }
