@@ -72,7 +72,6 @@ div.container {
 
 img.cover {
 	display: block;
-	margin: 10px auto;
 	height: 250px;
 	width: auto;
 }
@@ -82,4 +81,7 @@ table.title {
 	width: auto;
 	height: 250px;
 	margin-bottom: 10px;
+}
+td.cover {
+	text-align: right;
 }
