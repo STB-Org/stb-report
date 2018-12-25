@@ -82,6 +82,6 @@ table.title {
 	height: 250px;
 	margin-bottom: 10px;
 }
-td.cover {
-	text-align: right;
+span.cover {
+	float: right;
 }
