@@ -65,7 +65,14 @@ ul.posts li {
 	color: #969696;
 }
 div.container {
-	padding: 20px auto 40px; 
+	padding: 20px 0 10px; 
 	border-top: 1px solid #d1d1d1;
 	border-bottom: 1px solid #d1d1d1;
+}
+
+img.cover {
+	display: block;
+	margin: 10px auto;
+	height: 200px;
+	width: auto;
 }
